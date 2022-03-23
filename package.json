@@ -1,0 +1,19 @@
+{
+  "name": "lazonaalquiler",
+  "version": "1.0.0",
+  "description": "Pagina demo de alquiler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosBA123/LaZonaAlquiler.git"
+  },
+  "author": "Carlos Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosBA123/LaZonaAlquiler/issues"
+  },
+  "homepage": "https://github.com/carlosBA123/LaZonaAlquiler#readme"
+}
