@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carlosBA123/LaZonaAlquiler/issues"
   },
-  "homepage": "https://github.com/carlosBA123/LaZonaAlquiler#readme"
+  "homepage": "https://github.com/carlosBA123/LaZonaAlquiler#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
